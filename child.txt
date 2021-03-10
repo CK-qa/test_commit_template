@@ -1,7 +1,3 @@
-##child
+#child file
 
-//pewpew
-
-/**ololo*/
-
-testline
+pewpew
